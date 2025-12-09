@@ -1,3 +1,2 @@
 # firstproject
-This is my first Git repository
-Author=Shambhu Thakur
+This is my first Git repository.Author=Shambhu Thakur
